@@ -1,3 +1,6 @@
+# Reference | https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html#sphx-glr-auto-examples-classification-plot-digits-classification-py
+# Recongnizing Hand-written Digits 
+
 import cmath
 import matplotlib.pyplot as plt
 

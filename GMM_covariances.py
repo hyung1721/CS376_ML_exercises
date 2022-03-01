@@ -1,3 +1,6 @@
+# Reference | https://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_covariances.html?highlight=gaussian%20mixture
+# Demonstration of several covariances types for GMM
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 

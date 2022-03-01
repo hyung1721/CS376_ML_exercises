@@ -1,8 +1,7 @@
-from heapq import nsmallest
-from mimetypes import init
-import time
-from joblib import parallel_backend
+# Reference | https://scikit-learn.org/stable/auto_examples/cluster/plot_mini_batch_kmeans.html#sphx-glr-auto-examples-cluster-plot-mini-batch-kmeans-py
+# Mini Batch KMeans Clustering
 
+import time
 import numpy as np
 import matplotlib.pyplot as plt
 

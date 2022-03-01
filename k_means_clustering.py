@@ -1,6 +1,4 @@
-from turtle import color
 import numpy as np
-from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 from sklearn import metrics
 

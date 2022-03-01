@@ -1,4 +1,4 @@
-# Reference | https://deep-learning-study.tistory.com/m/639
+# Reference | https://deep-learning-study.tistory.com/639
 # Implement GAN using PyTorch
 
 import os
