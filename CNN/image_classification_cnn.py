@@ -1,8 +1,11 @@
+# Reference | Lecture from School of Computing, KAIST
+# 2021 Fall Semester 
+# CS376 Machine Learing Lecture
+# Assignment #3: Image Classification with CNN
+
 import os
 
 import ssl
-from turtle import Turtle
-from nbformat import write
 ssl._create_default_https_context = ssl._create_unverified_context
 
 import torch
