@@ -1,4 +1,6 @@
-# Reference | https://www.youtube.com/watch?v=IZtv9s_Wx9I&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=25
+# Reference
+# Paper - https://arxiv.org/abs/1511.06434 
+# Implementation -  https://www.youtube.com/watch?v=IZtv9s_Wx9I&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=25
 # Implementation of Deep Convolutional GAN
 
 import torch
@@ -100,5 +102,4 @@ def test():
     print(gen(gen_sample).shape)
     print(gen)
 
-
-test()
+# test()
