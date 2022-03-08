@@ -1,13 +1,7 @@
-from dis import dis
-from operator import mod
-from pyexpat import model
-from tkinter import image_names
-from tkinter.tix import DirSelectBox
 import torch
 import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader
-
 
 import torchvision
 import torchvision.datasets as datasets
