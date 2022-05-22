@@ -102,4 +102,4 @@ def test():
     print(gen(gen_sample).shape)
     print(gen)
 
-# test()
+test()
